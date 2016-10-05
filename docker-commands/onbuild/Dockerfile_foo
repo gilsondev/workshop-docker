@@ -1,0 +1,3 @@
+FROM ubuntu:latest
+
+ONBUILD RUN echo "Echo message made by foo image base"

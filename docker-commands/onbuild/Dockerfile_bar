@@ -1,0 +1,3 @@
+FROM foo_image:latest
+
+RUN echo "Message executed in bar image"
